@@ -5,7 +5,7 @@
 }
 body {
   color: white;
-  font-family: 'Inter';
+  font-family: "Inter";
 }
 
 #top-menu {
@@ -80,7 +80,7 @@ button {
   border: none;
   border-radius: 10px;
   color: #ffffff;
-  background-color: #C07212;
+  background-color: #c07212;
   cursor: pointer;
   transform: translateY(-7);
 }
